@@ -1,0 +1,5 @@
+* How to run it
+#+begin_src bash :main no :cache yes :tangle yes :exports code
+git clone git@github.com:w1n1KNy7Mbv0/sonic.git
+./run-experiments
+#+end_src
